@@ -1,0 +1,20 @@
+C:\Users\Sockm\AppData\Local\Temporary Projects\GDI Captcha\bin\Debug\GDI Captcha.exe.config
+C:\Users\Sockm\AppData\Local\Temporary Projects\GDI Captcha\bin\Debug\GDI Captcha.exe
+C:\Users\Sockm\AppData\Local\Temporary Projects\GDI Captcha\bin\Debug\GDI Captcha.pdb
+C:\Users\Sockm\AppData\Local\Temporary Projects\GDI Captcha\bin\Debug\GDI Captcha.xml
+C:\Users\Sockm\AppData\Local\Temporary Projects\GDI Captcha\obj\Debug\GDI_Captcha.Form1.resources
+C:\Users\Sockm\AppData\Local\Temporary Projects\GDI Captcha\obj\Debug\GDI_Captcha.Resources.resources
+C:\Users\Sockm\AppData\Local\Temporary Projects\GDI Captcha\obj\Debug\GDI Captcha.vbproj.GenerateResource.Cache
+C:\Users\Sockm\AppData\Local\Temporary Projects\GDI Captcha\obj\Debug\GDI Captcha.exe
+C:\Users\Sockm\AppData\Local\Temporary Projects\GDI Captcha\obj\Debug\GDI Captcha.xml
+C:\Users\Sockm\AppData\Local\Temporary Projects\GDI Captcha\obj\Debug\GDI Captcha.pdb
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\GDI Captcha\GDI Captcha\bin\Debug\GDI Captcha.exe.config
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\GDI Captcha\GDI Captcha\obj\Debug\GDI Captcha.exe
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\GDI Captcha\GDI Captcha\obj\Debug\GDI Captcha.xml
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\GDI Captcha\GDI Captcha\obj\Debug\GDI Captcha.pdb
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\GDI Captcha\GDI Captcha\obj\Debug\GDI_Captcha.Resources.resources
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\GDI Captcha\GDI Captcha\obj\Debug\GDI Captcha.vbproj.GenerateResource.Cache
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\GDI Captcha\GDI Captcha\bin\Debug\GDI Captcha.exe
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\GDI Captcha\GDI Captcha\bin\Debug\GDI Captcha.pdb
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\GDI Captcha\GDI Captcha\bin\Debug\GDI Captcha.xml
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\GDI Captcha\GDI Captcha\obj\Debug\GDI_Captcha.formMain.resources
